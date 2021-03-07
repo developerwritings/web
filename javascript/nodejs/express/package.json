@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "building sample project using express framework\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "just tech developer",
+  "license": "ISC"
+}
