@@ -12,5 +12,10 @@
     "mongodb"
   ],
   "author": "just tech developer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "fs": "0.0.1-security",
+    "xlsx": "^0.16.9"
+  }
 }
